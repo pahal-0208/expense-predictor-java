@@ -1,0 +1,6 @@
+Food - 500.0
+Clothes - 700.0
+Travel - 1200.0
+Food - 500.0
+Food - 500.0
+Food - 500.0
